@@ -1,4 +1,20 @@
 #qbox{
-  padding:50px;
-  margin:50px 100px;
+ margin:125px 350px 200px 350px;
+ border:2.5px solid;
+ padding:20px;
+}
+.qtext {
+  text-align: center;
+  padding:10px;
+}
+.qauthor {
+  padding:15px;
+  text-align:right;
+}
+.lower {
+  text-align: right;
+}
+#tw {
+  padding-right: 25px;
+  text-decoration:none;
 }
