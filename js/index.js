@@ -1,4 +1,4 @@
 function myfunction() {
-  document.getElementById("qa").innerHTML = "Berry";
+  document.getElementById("qt").innerHTML = "Berry";
 }
 
