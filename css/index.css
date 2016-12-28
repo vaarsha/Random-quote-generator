@@ -1,12 +1,13 @@
 #qbox{
  margin:125px 350px 200px 350px;
- border:2.5px solid;
+ border:2.5px solid #ffff;
  padding:20px;
 }
 .qtext {
   text-align: center;
   padding:10px;
  font-family: 'Merriweather', serif;
+ color:#ffff;
 }
 .qauthor {
   padding:15px;
@@ -19,4 +20,7 @@
 #tw {
   padding-right: 25px;
   text-decoration:none;
+}
+body {
+  background-color:#00000A;
 }
