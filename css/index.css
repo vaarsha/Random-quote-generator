@@ -24,3 +24,10 @@
 body {
   background-color:#00000A;
 }
+.fa-twitter {
+  font-size: 1.5em;
+  color: #ffff;
+}
+.fa-twitter:hover {
+  color: #0084b4;
+}
