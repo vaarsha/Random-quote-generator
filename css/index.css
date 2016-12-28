@@ -31,3 +31,18 @@ body {
 .fa-twitter:hover {
   color: #0084b4;
 }
+#btq {
+  color: #fff;
+  background-color: #00000A;
+  border: none;
+  cursor: pointer;
+  padding: 8px 15px;
+  vertical-align: middle;
+  font-size: 18px;
+  font-weight: 40;
+  line-height: 15px;
+  max-width: 160px;
+  position: relative;
+  text-decoration: none;
+  font-family: 'Libre Baskerville', serif;
+}
