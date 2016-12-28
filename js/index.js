@@ -1,4 +1,4 @@
-function myfunction() {
+function getquote() {
   //document.getElementById("qt").innerHTML = "Berry";
     var quotes = [
     {
