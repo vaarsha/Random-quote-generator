@@ -6,10 +6,12 @@
 .qtext {
   text-align: center;
   padding:10px;
+ font-family: 'Merriweather', serif;
 }
 .qauthor {
   padding:15px;
   text-align:right;
+ font-family: 'Merriweather', serif;
 }
 .lower {
   text-align: right;
