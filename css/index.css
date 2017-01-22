@@ -1,13 +1,13 @@
 #qbox{
  margin:125px 350px 200px 350px;
- border:2.5px solid #ffff;
+ border:2.5px solid #fff;
  padding:20px;
 }
 .qtext {
   text-align: center;
   padding:10px;
   font-family: 'Merriweather', serif;
-  color:#ffff;
+  color:#fff;
 }
 .qauthor {
   padding:15px;
@@ -26,7 +26,7 @@ body {
 }
 .fa-twitter {
   font-size: 1.5em;
-  color: #ffff;
+  color: #fff;
 }
 .fa-twitter:hover {
   color: #0084b4;
